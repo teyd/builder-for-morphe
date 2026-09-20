@@ -9,14 +9,10 @@ on:
         type: choice
         options:
           - morphe
-          - morphe-dev
           - piko
-          - rushi
-          - hoo-dles
-          - hooman
-          - paresh
-          - de-vanced
+          - piko-newx
           - tiktok
+          - riky
   workflow_call:
     inputs:
       patch_source:
